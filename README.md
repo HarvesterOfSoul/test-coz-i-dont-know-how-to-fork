@@ -26,6 +26,8 @@ Thank you for contributing with me in this Project:
 
 Any other authorship/credits can be seen through the commits.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HarvesterOfSoul/test-coz-i-dont-know-how-to-fork)
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 Should any be missing kindly let us know at [Eagle Union](https://t.me/YorktownEagleUnion) or simply submit a pull request on the readme.
